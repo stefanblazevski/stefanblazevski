@@ -10,8 +10,8 @@ I'm a Full Stack Developer based in Skopje, specializing in JavaScript and moder
 - JavaScript | HTML | SCSS | React | Vue | Adobe Suite | Figma
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/stefan-blazevski-391b2718b/))
-- [Portfolio]([https://yourportfolio.com](https://stefanblazevski.netlify.app/))
+- [LinkedIn](https://www.linkedin.com/in/stefan-blazevski-391b2718b/)
+- [Portfolio](https://stefanblazevski.netlify.app/)
 
 ### 🤝 Let's collaborate!
 I’m always eager to team up on new ideas or projects. Whether it’s gaming or coding, let’s make something awesome together!
